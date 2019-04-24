@@ -1,3 +1,5 @@
+//https://www.hackerrank.com/challenges/cpp-input-and-output/problem
+
 // #include <cmath>
 // #include <cstdio>
 // #include <vector>

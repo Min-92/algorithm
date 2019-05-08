@@ -4,8 +4,7 @@
 
 - <https://www.acmicpc.net/problem/5355>
 - 화성수학 줄단위 입력
-- <https://www.acmicpc.net/problem/9095>
-- 1,2,3더하기
+- 
 - 
 
 
@@ -17,13 +16,19 @@
 1. 백준 1463 1로 만들기
    - 문제 : <https://www.acmicpc.net/problem/1463>
    - 풀이 : 
-   - 재귀문제
-   - 피보나치 처럼 dp[1]부터 채워나가기]
+   - DP
+   - 피보나치 처럼 dp[1]부터 채워나가기
 2. 백준 9095 1,2,3 더하기
    - 문제 : <https://www.acmicpc.net/problem/9095>
    - 풀이 : 
-   - 재귀
+   - DP
    - 점화식 찾기
+3. 백준 2579 계단오르기
+   - 문제 : <https://www.acmicpc.net/problem/2579>
+   - 풀이 : 
+   - DP
+   - 점화식찾기
+   - dp 배열에서 이전 값들 과 비교하기, 조건찾기
 
 ##### 190507
 

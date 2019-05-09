@@ -5,27 +5,39 @@
 - <https://www.acmicpc.net/problem/5355>
 - 화성수학 줄단위 입력
 - 
-- 
 
 
 
 ## 완료
 
+##### 190509
+
+1. 백준 11726 2xn 타일링
+   - 문제 : <https://www.acmicpc.net/problem/11726>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj11726.cpp>
+   - dp
+   - 문제 조건 확인하기
+2. 백준 2193 이친수
+   - 문제 : <https://www.acmicpc.net/problem/2193>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj2193.cpp>
+   - dp
+   - long long 체크하기
+
 ##### 190508
 
 1. 백준 1463 1로 만들기
    - 문제 : <https://www.acmicpc.net/problem/1463>
-   - 풀이 : 
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj1463.cpp>
    - DP
    - 피보나치 처럼 dp[1]부터 채워나가기
 2. 백준 9095 1,2,3 더하기
    - 문제 : <https://www.acmicpc.net/problem/9095>
-   - 풀이 : 
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj9095.cpp>
    - DP
    - 점화식 찾기
 3. 백준 2579 계단오르기
    - 문제 : <https://www.acmicpc.net/problem/2579>
-   - 풀이 : 
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj2579.cpp>
    - DP
    - 점화식찾기
    - dp 배열에서 이전 값들 과 비교하기, 조건찾기

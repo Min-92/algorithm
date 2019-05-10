@@ -10,6 +10,18 @@
 
 ## 완료
 
+##### 190510
+
+1. 프로그래머스 12911 다른 큰 숫자
+   - 문제 : <https://www.welcomekakao.com/learn/courses/30/lessons/12911>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/pg12911.cpp>
+   - 벡터 사용시 시간초과
+   - int 만 사용
+2. 프로그래머스 49993 스킬트리
+   - 문제 : <https://www.welcomekakao.com/learn/courses/30/lessons/49993>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/pg49993.cpp>
+   - 반복문+반복문+반복문+조건문+조건문
+
 ##### 190509
 
 1. 백준 11726 2xn 타일링

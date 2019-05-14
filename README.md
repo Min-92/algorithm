@@ -4,11 +4,30 @@
 
 - <https://www.acmicpc.net/problem/5355>
 - 화성수학 줄단위 입력
-- 
+- <https://www.acmicpc.net/problem/10451>
+- 순열 사이클
+
+
 
 
 
 ## 완료
+
+##### 190514
+
+1. 백준 10451 순열사이클
+   - 문제 : <https://www.acmicpc.net/problem/10451>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj10451.cpp>
+   - 그래프
+2. 백준 2606 바이러스
+   - 문제 : <https://www.acmicpc.net/problem/2606>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj2606.cpp>
+   - 그래프
+   - dfs
+3. 백준 2667 단지번호붙이기
+   - 문제 : <https://www.acmicpc.net/problem/2667>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj2667.cpp>
+   - dfs
 
 ##### 190510
 

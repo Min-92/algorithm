@@ -4,14 +4,34 @@
 
 - <https://www.acmicpc.net/problem/5355>
 - 화성수학 줄단위 입력
-- <https://www.acmicpc.net/problem/10451>
-- 순열 사이클
-
-
+- <https://www.acmicpc.net/problem/7576>
+- 토마토
+- 
 
 
 
 ## 완료
+
+##### 190517
+
+1. 백준 1260 DFS와 BFS
+   - 문제 : <https://www.acmicpc.net/problem/1260>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj1260.cpp>
+   - DFS
+   - BFS
+
+##### 190515
+
+1. 백준 2178 미로탐색
+   - 문제 : <https://www.acmicpc.net/problem/2178> 
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj2178.cpp>
+   - BFS
+2. 프로그래머스 43162 네트워크
+   - 문제 : <https://www.welcomekakao.com/learn/courses/30/lessons/43162>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/pg43162.cpp>
+   - DFS
+
+
 
 ##### 190514
 
@@ -28,6 +48,10 @@
    - 문제 : <https://www.acmicpc.net/problem/2667>
    - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj2667.cpp>
    - dfs
+4. 프로그래머스 43165 타겟넘버
+   - 문제 : <https://www.welcomekakao.com/learn/courses/30/lessons/43165>
+   - 풀이 :
+   - dfs 
 
 ##### 190510
 

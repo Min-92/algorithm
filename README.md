@@ -12,6 +12,18 @@
 
 ## 완료
 
+##### 190521
+
+1. 프로그래머스 42748 K번째 수
+   - 문제 : <https://programmers.co.kr/learn/courses/30/lessons/42748>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/pg42748_1.cpp>
+
+##### 190520
+
+1. 프로그래머스 42567 완주하지 못한 선수
+   - 문제 : <https://programmers.co.kr/learn/courses/30/lessons/42576>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/pg42567.cpp>
+
 ##### 190517
 
 1. 백준 1260 DFS와 BFS

@@ -6,12 +6,17 @@
 - 화성수학 줄단위 입력
 - <https://www.acmicpc.net/problem/7576>
 - 토마토
-- <https://programmers.co.kr/learn/courses/30/lessons/42746>
-- 가장 큰 수
+- 
 
 
 
 ## 완료
+
+##### 190523
+
+1. 프로그래머스 42746 가장 큰 수
+   - 문제 : <https://programmers.co.kr/learn/courses/30/lessons/42746>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/pg42746.cpp>
 
 ##### 190521
 

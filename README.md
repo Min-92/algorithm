@@ -3,14 +3,30 @@
 ## 푸는중
 
 - <https://www.acmicpc.net/problem/5355>
+
 - 화성수학 줄단위 입력
+
 - <https://www.acmicpc.net/problem/7576>
+
 - 토마토
-- 
+
+  
 
 
 
 ## 완료
+
+##### 190524
+
+1. 프로그래머스 42747 H-index
+   - 문제 : <https://programmers.co.kr/learn/courses/30/lessons/42747>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/pg42747.cpp>
+   - 정렬
+2. 프로그래머스 42842 카펫
+   - 문제 : <https://www.welcomekakao.com/learn/courses/30/lessons/42842>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/pg42842.cpp>
+
+
 
 ##### 190523
 

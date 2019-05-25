@@ -16,6 +16,12 @@
 
 ## 완료
 
+##### 190525
+
+1. 프로그래머스 12969 직사각형 별찍기
+   - 문제 : <https://www.welcomekakao.com/learn/courses/30/lessons/12969?language=cpp>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/pg12969.cpp>
+
 ##### 190524
 
 1. 프로그래머스 42747 H-index

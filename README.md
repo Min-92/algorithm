@@ -20,6 +20,9 @@
 1. 프로그래머스 12930 이상한 문자 만들기
    - 문제 : <https://programmers.co.kr/learn/courses/30/lessons/12930>
    - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/pg12930.cpp>
+2. 프로그래머스 42883 큰 수 만들기
+   - 문제 : <https://www.welcomekakao.com/learn/courses/30/lessons/42883>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/pg42883.cpp>
 
 ##### 190527
 

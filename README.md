@@ -15,6 +15,19 @@
 
 ## 완료
 
+##### 190528
+
+1. 프로그래머스 12930 이상한 문자 만들기
+   - 문제 : <https://programmers.co.kr/learn/courses/30/lessons/12930>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/pg12930.cpp>
+
+##### 190527
+
+1. 프로그래머스 42840 모의고사
+   - 문제 : <https://programmers.co.kr/learn/courses/30/lessons/42840>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/pg42840.cpp>
+   - 완전탐색
+
 ##### 190525
 
 1. 프로그래머스 12969 직사각형 별찍기

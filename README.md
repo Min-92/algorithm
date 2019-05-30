@@ -15,6 +15,13 @@
 
 ## 완료
 
+##### 190530
+
+1. 프로그래머스 12913 땅따먹기
+   - 문제 : <https://www.welcomekakao.com/learn/courses/30/lessons/12913>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/pg12913.cpp>
+   - dp
+
 ##### 190528
 
 1. 프로그래머스 12930 이상한 문자 만들기

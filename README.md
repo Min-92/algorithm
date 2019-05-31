@@ -15,6 +15,12 @@
 
 ## 완료
 
+##### 190531
+
+1. 백준 1913 달팽이
+   - 문제 : <https://www.acmicpc.net/problem/1913>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj1913.cpp>
+
 ##### 190530
 
 1. 프로그래머스 12913 땅따먹기

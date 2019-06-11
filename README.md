@@ -15,6 +15,13 @@
 
 ## 완료
 
+##### 190611
+
+1. 백준 1018 체스판 다시 칠하기
+   - 문제 : <https://www.acmicpc.net/problem/1018>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj1018.cpp>
+   - 완전탐색
+
 ##### 190531
 
 1. 백준 1913 달팽이

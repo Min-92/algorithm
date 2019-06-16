@@ -3,17 +3,27 @@
 ## 푸는중
 
 - <https://www.acmicpc.net/problem/5355>
-
 - 화성수학 줄단위 입력
-
 - <https://www.acmicpc.net/problem/7576>
-
 - 토마토
-  
+- <https://programmers.co.kr/learn/courses/30/lessons/42839>
+- 소수찾기
 
 
 
 ## 완료
+
+##### 190616
+
+1. 프로그래머스 12919 서울에서 김서방 찾기
+   - 문제 : <https://www.welcomekakao.com/learn/courses/30/lessons/12919>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/pg12919.cpp>
+
+##### 190614
+
+1. 프로그래머스 12939 최댓값과 최솟값
+   - 문제 : <https://programmers.co.kr/learn/courses/30/lessons/12939>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/pg12939.cpp>
 
 ##### 190611
 

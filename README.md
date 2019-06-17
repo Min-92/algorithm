@@ -13,6 +13,22 @@
 
 ## 완료
 
+##### 190617
+
+1. 백준 10989 수 정렬하기 3
+
+   - 문제 : <https://www.acmicpc.net/problem/10989>
+
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj10989.cpp>
+
+   - 빠른 입출력
+
+   - ```c++
+     - cin.tie(NULL);
+     - cin.tie(NULL);
+     - ios_base :: sync_with_stdio(false);
+     ```
+
 ##### 190616
 
 1. 프로그래머스 12919 서울에서 김서방 찾기

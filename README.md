@@ -13,6 +13,12 @@
 
 ## 완료
 
+##### 190618
+
+1. 프로그래머스 가장 큰 정사각형 찾기
+   - 문제 : <https://www.welcomekakao.com/learn/courses/30/lessons/12905>
+   - 풀이 : <https://github.com/Min-92/algorithm/commit/43eec1e4d6b7eef3fb868b013706687dacff7acf>
+
 ##### 190617
 
 1. 백준 10989 수 정렬하기 3

@@ -8,10 +8,25 @@
 - 토마토
 - <https://programmers.co.kr/learn/courses/30/lessons/42839>
 - 소수찾기
- 
+
 
 
 ## 완료
+
+##### 190624
+
+1. 백준 퍼즐
+   - 문제 : <https://www.acmicpc.net/problem/1525>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj1525.cpp>
+   - BFS
+
+##### 190620
+
+1. 백준 수 정렬하기2
+   - 문제 : <https://www.acmicpc.net/problem/2751>
+   - 풀이 : 
+   - 힙 or 병합정렬
+   - 빠른 입출력
 
 ##### 190618
 

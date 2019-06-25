@@ -8,6 +8,8 @@
 - 토마토
 - <https://programmers.co.kr/learn/courses/30/lessons/42839>
 - 소수찾기
+- <https://www.acmicpc.net/problem/2580>
+- 수도쿠
 
 
 

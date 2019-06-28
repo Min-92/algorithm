@@ -15,6 +15,13 @@
 
 ## 완료
 
+##### 190701 
+
+1. 백준 1012 유기농 배추
+   - 문제 : <https://www.acmicpc.net/problem/1012>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj1012.cpp>
+   - DFS
+
 ##### 190627
 
 1. 프로그래머스 42862 체육복

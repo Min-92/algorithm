@@ -10,10 +10,20 @@
 - 소수찾기
 - <https://www.acmicpc.net/problem/2580>
 - 수도쿠
+- <https://www.acmicpc.net/problem/6603>
+- 로또
 
 
 
 ## 완료
+
+##### 190703
+
+1. 백준 2133 타일채우기
+   - 문제 : <https://www.acmicpc.net/problem/2133>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj2133.cpp>
+   - dp
+   - 규칙찾기
 
 ##### 190702
 

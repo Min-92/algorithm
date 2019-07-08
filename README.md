@@ -17,6 +17,18 @@
 
 ## 완료
 
+##### 190708
+
+1. 백준 2490 윷놀이
+   - 문제 : <https://www.acmicpc.net/problem/2490>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj2490.cpp>
+2. 백준 5585 거스름돈
+   - 문제 : <https://www.acmicpc.net/problem/5585>
+   - 풀이 :<https://github.com/Min-92/algorithm/blob/master/code/bj5585.cpp>
+3. 백준 2869 달팽이는 올라가고 싶다
+   - 문제 : <https://www.acmicpc.net/problem/2869>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj2869.cpp>
+
 ##### 190703
 
 1. 백준 2133 타일채우기

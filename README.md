@@ -17,6 +17,12 @@
 
 ## 완료
 
+##### 190711
+
+1. 백준 1748 수 이어쓰기 1
+   - 문제 : <https://www.acmicpc.net/status?user_id=okssud&problem_id=1748&from_mine=1>
+   - 풀이 : <https://github.com/Min-92/algorithm/blob/master/code/bj1748.cpp>
+
 ##### 190708
 
 1. 백준 2490 윷놀이

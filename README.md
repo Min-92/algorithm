@@ -17,11 +17,30 @@
 
 ## 완료
 
+##### 190719
+
+1. 백준 10815 숫자카드
+   - 문제 : https://www.acmicpc.net/problem/10815
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/bj10815.cpp
+
+##### 190718
+
+1. 백준 2959 거북이
+   - 문제 : https://www.acmicpc.net/problem/2959
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/bj2959.cpp
+   - 정렬
+
+##### 190716 
+
+1. 백준 2309 일곱 난쟁이
+   - 문제 : https://www.acmicpc.net/problem/2309
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/bj2309.cpp
+
 ##### 190715
 
 1. 백준 1920 수 찾기
    - 문제 : <https://www.acmicpc.net/problem/1920>
-   - 풀이 : 
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/bj1920.cpp
 
 ##### 190711
 

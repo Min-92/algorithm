@@ -17,6 +17,13 @@
 
 ## 완료
 
+##### 190720
+
+1. 백준 1026 보물
+   - 문제 : https://www.acmicpc.net/problem/1026
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/bj1026.cpp
+   - 정렬
+
 ##### 190719
 
 1. 백준 10815 숫자카드

@@ -12,6 +12,8 @@
 - 수도쿠
 - <https://www.acmicpc.net/problem/6603>
 - 로또
+- https://www.acmicpc.net/problem/1015
+- 수열정렬
 
 
 

@@ -24,6 +24,9 @@
 1. 백준 1932 정수삼각형
    - 문제 : https://www.acmicpc.net/problem/1932
    - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/bj1932.cpp
+2. 백준 2875 대회 or 인턴
+   - 문제 : https://www.acmicpc.net/problem/2875
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/bj2875.cpp
 
 ##### 190720
 

@@ -19,6 +19,12 @@
 
 ## 완료
 
+##### 190723
+
+1. 백준 1932 정수삼각형
+   - 문제 : https://www.acmicpc.net/problem/1932
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/bj1932.cpp
+
 ##### 190720
 
 1. 백준 1026 보물

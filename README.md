@@ -14,10 +14,59 @@
 - 로또
 - https://www.acmicpc.net/problem/1015
 - 수열정렬
+- https://www.acmicpc.net/problem/1107
+- 리모콘
+- https://www.acmicpc.net/problem/1213
+- 팰린드롬만들기
 
 
 
 ## 완료
+
+##### 190812
+
+1. 코드시그널 intro 8
+   - 문제 : https://app.codesignal.com/arcade/intro/level-2/xskq4ZxLyqQMCLshr/drafts
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/csIntro8.cpp
+
+##### 190802
+
+ 	1. 코드시그널 intro 7
+     - 문제 : https://app.codesignal.com/arcade/intro/level-2/2mxbGwLzvkTCKAJMG
+     - 풀이 : 
+
+##### 190801
+
+ 	1. 코드시그널 intro 1 add
+     - 문제 : https://app.codesignal.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa
+     - 풀이 : 
+	2. 코드시그널 intro 2 century from year
+    - 문제 : https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN
+    - 풀이 : 
+	3. 코드시그널 intro 3 check palindrome
+    - 문제 : https://app.codesignal.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ
+    - 풀이 : 
+	4. 코드시그널 intro 4 adjacent elements product
+    - 문제 : https://app.codesignal.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m
+    - 풀이 : 
+	5. 코드시그널 intro 5 shape area
+    - 문제 : https://app.codesignal.com/arcade/intro/level-2/yuGuHvcCaFCKk56rJ
+    - 풀이 : 
+	6. 코드시그널 intro 6 make array consecutie 2
+    - 문제 : https://app.codesignal.com/arcade/intro/level-2/bq2XnSr5kbHqpHGJC
+    - 풀이 : 
+
+##### 190727
+
+1. 프로그래머스 12922 수박수박수?
+   - 문제 : https://www.welcomekakao.com/learn/courses/30/lessons/12922
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/pg12922.cpp
+
+##### 190724
+
+1. 백준 2285,2141 우체국
+   - 문제 : https://www.acmicpc.net/problem/2285
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/bj2285.cpp
 
 ##### 190723
 

@@ -18,10 +18,18 @@
 - 리모콘
 - https://www.acmicpc.net/problem/1213
 - 팰린드롬만들기
+- https://www.acmicpc.net/problem/1010
+- 다리놓기
 
 
 
 ## 완료
+
+##### 190814
+
+1. 프로그래머스 42888 오픈채팅방
+   - 문제 : [https://welcomekakao.com/learn/courses/30/lessons/42888?language=javascript](https://www.welcomekakao.com/learn/courses/30/lessons/42888?language=javascript)
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/pg42888.js
 
 ##### 190812
 

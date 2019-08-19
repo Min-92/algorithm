@@ -25,6 +25,12 @@
 
 ## 완료
 
+##### 190819
+
+1. 프로그래머스 42889 실패율
+   - 문제 : https://www.welcomekakao.com/learn/courses/30/lessons/42889?language=cpp#
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/pg42889.cpp
+
 ##### 190814
 
 1. 프로그래머스 42888 오픈채팅방

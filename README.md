@@ -21,9 +21,16 @@
 - https://www.acmicpc.net/problem/1010
 - 다리놓기
 
-
+- https://www.welcomekakao.com/learn/courses/30/lessons/42890?language=javascript#
+- 후보키
 
 ## 완료
+
+##### 190827
+
+1. Leetcode 746 min cost climbing stairs
+   - 문제 : https://leetcode.com/problems/min-cost-climbing-stairs/
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/leetcode746.cpp
 
 ##### 190819
 
@@ -45,30 +52,32 @@
 
 ##### 190802
 
- 	1. 코드시그널 intro 7
-     - 문제 : https://app.codesignal.com/arcade/intro/level-2/2mxbGwLzvkTCKAJMG
-     - 풀이 : 
+1. 코드시그널 intro 7
+
+   - 문제 : https://app.codesignal.com/arcade/intro/level-2/2mxbGwLzvkTCKAJMG
+
+   - 풀이 : 
 
 ##### 190801
 
- 	1. 코드시그널 intro 1 add
-     - 문제 : https://app.codesignal.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa
-     - 풀이 : 
-	2. 코드시그널 intro 2 century from year
-    - 문제 : https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN
-    - 풀이 : 
-	3. 코드시그널 intro 3 check palindrome
-    - 문제 : https://app.codesignal.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ
-    - 풀이 : 
-	4. 코드시그널 intro 4 adjacent elements product
-    - 문제 : https://app.codesignal.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m
-    - 풀이 : 
-	5. 코드시그널 intro 5 shape area
-    - 문제 : https://app.codesignal.com/arcade/intro/level-2/yuGuHvcCaFCKk56rJ
-    - 풀이 : 
-	6. 코드시그널 intro 6 make array consecutie 2
-    - 문제 : https://app.codesignal.com/arcade/intro/level-2/bq2XnSr5kbHqpHGJC
-    - 풀이 : 
+1. 코드시그널 intro 1 add
+	- 문제 : https://app.codesignal.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa
+	- 풀이 : 
+2. 코드시그널 intro 2 century from year
+	- 문제 : https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN
+	- 풀이 : 
+3. 코드시그널 intro 3 check palindrome
+	- 문제 : https://app.codesignal.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ
+	- 풀이 : 
+4. 코드시그널 intro 4 adjacent elements product
+	- 문제 : https://app.codesignal.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m
+	- 풀이 : 
+5. 코드시그널 intro 5 shape area
+	- 문제 : https://app.codesignal.com/arcade/intro/level-2/yuGuHvcCaFCKk56rJ
+	- 풀이 : 
+6. 코드시그널 intro 6 make array consecutie 2
+	- 문제 : https://app.codesignal.com/arcade/intro/level-2/bq2XnSr5kbHqpHGJC
+	- 풀이 : 
 
 ##### 190727
 

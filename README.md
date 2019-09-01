@@ -3,28 +3,50 @@
 ## 푸는중
 
 - <https://www.acmicpc.net/problem/5355>
+
 - 화성수학 줄단위 입력
+
 - <https://www.acmicpc.net/problem/7576>
+
 - 토마토
+
 - <https://programmers.co.kr/learn/courses/30/lessons/42839>
+
 - 소수찾기
+
 - <https://www.acmicpc.net/problem/2580>
+
 - 수도쿠
+
 - <https://www.acmicpc.net/problem/6603>
+
 - 로또
+
 - https://www.acmicpc.net/problem/1015
+
 - 수열정렬
+
 - https://www.acmicpc.net/problem/1107
+
 - 리모콘
+
 - https://www.acmicpc.net/problem/1213
+
 - 팰린드롬만들기
+
 - https://www.acmicpc.net/problem/1010
+
 - 다리놓기
 
-- https://www.welcomekakao.com/learn/courses/30/lessons/42890?language=javascript#
-- 후보키
+  
 
 ## 완료
+
+##### 190901
+
+1. 프로그래머스 42890 후보키
+   - 문제 : https://www.welcomekakao.com/learn/courses/30/lessons/42890
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/pg42890.js
 
 ##### 190827
 

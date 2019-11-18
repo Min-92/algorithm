@@ -38,15 +38,55 @@
 
 - 다리놓기
 
+- https://www.welcomekakao.com/learn/courses/30/lessons/49995
+
+- 쿠키구입
+
   
 
 ## 완료
+
+##### 191118
+
+1. Leet code : coin change
+   - 문제 : https://leetcode.com/problems/coin-change/
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/LCcoinChange.js
+
+##### 191008
+
+1. 프로그래머스 12906 같은 숫자는 싫어
+   - 문제 : https://www.welcomekakao.com/learn/courses/30/lessons/12906
+   - 풀이 : 
+
+##### 190904
+
+1. 프로그래머스 42892 길 찾기 게임
+   - 문제 : https://www.welcomekakao.com/learn/courses/30/lessons/42892
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/pg42892.js
+
+##### 190903
+
+1. 프로그래머스 17678 셔틀버스
+   - 문제 : https://www.welcomekakao.com/learn/courses/30/lessons/17678
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/pg17678.js
 
 ##### 190901
 
 1. 프로그래머스 42890 후보키
    - 문제 : https://www.welcomekakao.com/learn/courses/30/lessons/42890
    - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/pg42890.js
+2. 프로그래머스 17681 비밀지도
+   - 문제 : https://www.welcomekakao.com/learn/courses/30/lessons/17681
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/pg17681.js
+3. 프로그래머스 17682 다트게임
+   - 문제 : https://www.welcomekakao.com/learn/courses/30/lessons/17682
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/pg17682.js
+4. 프로그래머스 17680 캐시
+   - 문제 : https://www.welcomekakao.com/learn/courses/30/lessons/17680
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/pg17680.js
+5. 프로그래머스 17677 뉴스 클러스팅
+   - 문제 : https://www.welcomekakao.com/learn/courses/30/lessons/17677
+   - 풀이 : https://github.com/Min-92/algorithm/blob/master/code/pg17677.js
 
 ##### 190827
 
